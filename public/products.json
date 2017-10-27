@@ -1,0 +1,8 @@
+{
+  "products": [
+      {"category": "Sporting Goods", "price": 49.99, "stocked": false, "name": "Football"},
+      {"category": "Electronics", "price": 99.99, "stocked": true, "name": "iPod Touch"},     
+      {"category": "Electronics", "price": 99.99, "stocked": false, "name": "Pixel 2"},
+      {"category": "Sporting Goods", "price": 99.99, "stocked": true, "name": "Bball"}
+  ]
+}
